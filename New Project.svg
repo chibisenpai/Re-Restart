@@ -1,0 +1,17 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="500" height="500">
+	<title>New Project</title>
+	<style>
+		tspan { white-space:pre } 
+		.t0 { font-size: 24px;fill: #000000;font-weight: 400;font-family: "EBGaramondSC08-Regular", "EB Garamond SC 08" } 
+		.s1 { fill: #000000 } 
+		.s2 { fill: #ffffff;stroke: #000000;paint-order:stroke fill markers;stroke-linejoin: round;stroke-width: 6 } 
+	</style>
+	<text id="RE;RESTART" style="transform: matrix(1.434,0,0,1.434,153.647,452.775)" >
+		<tspan x="0" y="0" class="t0">R</tspan><tspan  y="0" class="t0">E</tspan><tspan  y="0" class="t0">;</tspan><tspan  y="0" class="t0">R</tspan><tspan  y="0" class="t0">E</tspan><tspan  y="0" class="t0">S</tspan><tspan  y="0" class="t0">T</tspan><tspan  y="0" class="t0">A</tspan><tspan  y="0" class="t0">R</tspan><tspan  y="0" class="t0">T</tspan><tspan  y="0" class="t0">
+</tspan>
+	</text>
+	<text id="" style="transform: matrix(.333,0,0,.333,443.333,506.667)" >
+	</text>
+	<path id="Shape 1" fill-rule="evenodd" class="s1" d="m102.9 265.7c-8.8-8.7-8.8-22.9 0-31.6l89.4-89.2c6.4-6.4 15.9-8.3 24.3-4.8 8.4 3.4 13.8 11.5 13.8 20.6v178.5c0 9-5.4 17.1-13.8 20.6-8.4 3.5-17.9 1.5-24.3-4.8 0 0-89.4-89.2-89.4-89.3z"/>
+	<path id="Shape 1 copy" fill-rule="evenodd" class="s2" d="m256.9 265.7c-8.7-8.7-8.7-22.9 0-31.6l89.4-89.2c6.4-6.4 16-8.3 24.3-4.8 8.4 3.4 13.9 11.5 13.9 20.6v178.5c0 9-5.5 17.1-13.9 20.6-8.3 3.5-17.9 1.5-24.3-4.8 0 0-89.4-89.2-89.4-89.3z"/>
+</svg>
