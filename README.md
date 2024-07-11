@@ -1,6 +1,28 @@
-<p align="center"><img src="https://raw.githubusercontent.com/chibisenpai/Re-Restart/main/logo_small.png" alt="project-image"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/chibisenpai/Re-Restart/main/logo_small.png" alt="project-image"></p> 
+<h2>Introduction</h2> 
+<p id="description"> Welcome to PROJECT: RE;RESTART a project that will help to gamify your life by creating a system for you. My plan is to make this more like a gacha rpg system I wont be including the rolling system I just want to add dailes ,rewards , market system and etc </p> <h2> Goal of this project </h2> <p> Goal of this project is to actually help out people to be self aware of their life and take control of your life making you self aware and productive I also want to make this process enjoyable as possible by making this JRPG style with a story that I am working on </p>   <h2>Features</h2>
+<p>There are lot of features I want to add</p>
+<ol>
+<li>Multiple user account support</li>
+<li>RPG System
+<ul>
+<li>Currencies</li> 
+<li>XP system / leveling</li>
+<li>Dailies</li>
+<li>Punishment</li>
+<li>Rewards</li>
+ <li>Markets</li> 
+ <li>Quests</li> 
+ </ul>
+ </li>
+<li>Statistics
+<ul>
+<li>daily, weekly and monthly charts</li>
+</ul></li>
+<li>Should include a attractive notification</li>
+<li>Community Customizable Themes</li>
+<li>Should include Social features and Social quests</li>
 
-<h2>Introduction</h2>
-<p id="description">
-    Welcome to project Re;Restart. This is a project to create a life tracking RPG with a story (yes, an actual visual novel). Right now, I am cooking up a story and system and planning this app. I will update this description soon (～￣▽￣)～
-</p>
+
+</ol>
+<h2>I am working on this part should be done soon (～￣▽￣)～</h2>
