@@ -23,8 +23,6 @@
 	<li>Community Customizable Themes</li>
 	<li>Add VN Story Scenes</li>
 	<li>Should include Social features and Social quests</li>
-	
-	
 	</ol>
 	
 
