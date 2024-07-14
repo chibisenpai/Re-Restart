@@ -26,4 +26,7 @@
 	</ol>
 	
 
-<h2>I am working on this part should be done soon (～￣▽￣)～</h2>
+<h2>Wireframing(WIP)～</h2>
+Well today I started wireframing using figma here is the progress I did today 
+<p align="center"><img src="https://raw.githubusercontent.com/chibisenpai/Re-Restart/main/Wireframe%20Re%3BRestart(wip).png" alt="wip wireframe"></p> 
+
